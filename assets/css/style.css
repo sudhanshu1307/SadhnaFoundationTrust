@@ -91,6 +91,12 @@ h6,
   line-height: 0;
   color: #444;
   transition: 0.3s;
+  font-size: 14px;
+}
+
+#topbar .contact-info p {
+  margin-bottom: 0;
+  font-size: 14px;
 }
 
 #topbar .contact-info a:hover {
@@ -612,7 +618,7 @@ section {
 .breadcrumbs h2 {
   font-size: 40px;
   font-weight: 600;
-  letter-spacing: 11px;
+  letter-spacing: 10px;
   text-transform: uppercase;
   color: #fff;
 }
